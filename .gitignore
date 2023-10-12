@@ -1,0 +1,99 @@
+# Unreal Engine
+Saved/
+Intermediate/
+DerivedDataCache/
+*.sdf
+*.sln
+*.suo
+*.xcodeproj/
+*.xcworkspace/
+*.swp
+*.user
+*.xcuserstate
+*.opensdf
+*.opendb
+*.VC.db
+*.editorconfig
+*.VC.VC.opendb
+
+# Visual Studio Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Unreal Engine temporary files
+*.log
+*.bak
+*.backup
+*.sav
+*.umap
+*.uasset
+*.uprojectdirs
+*.uproject.userdirs
+*.uplugin
+*.uplugin.user
+
+# Compiled binaries
+*.dll
+*.dylib
+*.exe
+*.pdb
+
+# Compiled Android files
+Intermediate/Android/
+
+# Compiled iOS files
+Intermediate/IOS/
+
+# Compiled HTML5 files
+Intermediate/HTML5/
+
+# Crash Reports
+*.crashreport
+
+# Android
+Build/Android/
+
+# iOS
+Build/IOS/
+
+# HTML5
+Build/HTML5/
+
+# Steamworks SDK
+ThirdParty/Steamworks/
+
+# Android NDK
+Intermediate/Android/APK/
+Intermediate/Android/armeabi-v7a/
+
+# Xcode
+*.xcuserdatad/
+
+# Compiled Shader Cache
+DerivedDataCache/
+
+# NVIDIA Ansel
+Intermediate/NvAnsel/
+
+# Perforce
+/.p4config
+/.p4ignore
+
+# Rider
+.idea/
+
+# Rider user-specific files
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/datasources.xml
+.idea/assetWizardSettings.xml
+
+# macOS Finder files
+*.DS_Store

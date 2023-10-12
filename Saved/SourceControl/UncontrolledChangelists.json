@@ -17,6 +17,9 @@
 				"E:/Projects/ProjectKurs/Content/FirstPerson/Input/Actions/IA_Run.uasset",
 				"E:/Projects/ProjectKurs/Content/UI/WBP_Health.uasset",
 				"E:/Projects/ProjectKurs/Content/UI/WBP_Main.uasset",
+				"E:/Projects/ProjectKurs/Content/FX/NE_BulletHit.uasset",
+				"E:/Projects/ProjectKurs/Content/FX/NS_BulletHit.uasset",
+				"E:/Projects/ProjectKurs/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"E:/Projects/ProjectKurs/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"E:/Projects/ProjectKurs/Content/FirstPerson/Blueprints/BP_FirstPersonPlayerController.uasset"
 			]

@@ -5,7 +5,20 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"E:/Projects/ProjectKurs/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset"
+				"E:/Projects/ProjectKurs/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
+				"E:/Projects/ProjectKurs/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"E:/Projects/ProjectKurs/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"E:/Projects/ProjectKurs/Content/FirstPersonArms/Animations/FirstPerson_AnimBP.uasset",
+				"E:/Projects/ProjectKurs/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset",
+				"E:/Projects/ProjectKurs/Content/FirstPerson/Blueprints/BP_Player.uasset",
+				"E:/Projects/ProjectKurs/Content/FirstPerson/Blueprints/BP_PlayerInputController.uasset",
+				"E:/Projects/ProjectKurs/Content/FirstPerson/Input/IMC_Default.uasset",
+				"E:/Projects/ProjectKurs/Content/PlayerModel.uasset",
+				"E:/Projects/ProjectKurs/Content/FirstPerson/Input/Actions/IA_Run.uasset",
+				"E:/Projects/ProjectKurs/Content/UI/WBP_Health.uasset",
+				"E:/Projects/ProjectKurs/Content/UI/WBP_Main.uasset",
+				"E:/Projects/ProjectKurs/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"E:/Projects/ProjectKurs/Content/FirstPerson/Blueprints/BP_FirstPersonPlayerController.uasset"
 			]
 		}
 	]

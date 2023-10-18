@@ -21,7 +21,8 @@
 				"E:/Projects/ProjectKurs/Content/FX/NS_BulletHit.uasset",
 				"E:/Projects/ProjectKurs/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"E:/Projects/ProjectKurs/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"E:/Projects/ProjectKurs/Content/FirstPerson/Blueprints/BP_FirstPersonPlayerController.uasset"
+				"E:/Projects/ProjectKurs/Content/FirstPerson/Blueprints/BP_FirstPersonPlayerController.uasset",
+				"E:/Projects/ProjectKurs/Content/FirstPerson/Input/Actions/IA_Shoot.uasset"
 			]
 		}
 	]

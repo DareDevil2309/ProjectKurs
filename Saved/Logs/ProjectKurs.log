@@ -3261,3 +3261,1112 @@ Make sure 'BP_ValueObserver_C' has been compiled for  Bind Event to On Empty
 [2023.11.09-16.32.43:856][ 54]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
 [2023.11.09-16.32.43:866][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
 [2023.11.09-16.32.43:939][ 55]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2023.11.09-16.33.36:960][239]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-16.33.36:960][239]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-16.33.36:963][239]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-16.33.49:118][440]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-16.33.49:119][440]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-16.33.49:120][440]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-16.33.49:210][440]LogBlueprint: Error: [AssetLog] : [Compiler] Can use  Die  as a template for creating the function, can only have a single custom event! Previously found  OnHPChanged
+[2023.11.09-16.33.49:210][440]LogBlueprint: Error: [AssetLog] : [Compiler] Die  cannot be placed in function graph
+[2023.11.09-16.33.49:210][440]BlueprintLog: New page: Collapse to Function
+[2023.11.09-16.33.49:210][440]BlueprintLog: Error: Can use  Die  as a template for creating the function, can only have a single custom event! Previously found  OnHPChanged
+[2023.11.09-16.33.49:210][440]BlueprintLog: Error: Die  cannot be placed in function graph
+[2023.11.09-16.33.49:238][440]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-16.33.49:238][440]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-16.33.49:239][440]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-16.33.55:613][962]LogSlate: Window 'Message Log' being destroyed
+[2023.11.09-16.33.55:621][962]LogSlate: Window 'Message Log' being destroyed
+[2023.11.09-16.36.19:449][521]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-16.36.19:450][521]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-16.36.19:451][521]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-16.36.23:987][935]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-16.36.23:987][935]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-16.36.23:989][935]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-16.37.13:999][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.11.09-16.37.14:002][588]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.027
+[2023.11.09-16.37.14:002][588]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Player/BP_Player] ([2] browsable assets)...
+[2023.11.09-16.37.14:138][588]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Characters/Player/BP_Player.BP_Player]
+[2023.11.09-16.37.14:138][588]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Player/BP_Player]
+[2023.11.09-16.37.14:138][588]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Player/BP_Player" FILE="../../../../../Projects/ProjectKurs/Saved/Autosaves/Game/Characters/Player/BP_Player_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2023.11.09-16.37.14:195][588]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Player/BP_Player_Auto4
+[2023.11.09-16.37.14:195][588]LogSavePackage: Moving '../../../../../Projects/ProjectKurs/Saved/BP_Player_Auto433547281419D146869CFA3ACDD7163C9.tmp' to '../../../../../Projects/ProjectKurs/Saved/Autosaves/Game/Characters/Player/BP_Player_Auto4.uasset'
+[2023.11.09-16.37.14:195][588]LogFileHelpers: Auto-saving content packages took 0.193
+[2023.11.09-16.40.54:094][249]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2023.11.09-16.40.54:094][249]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2023.11.09-16.50.37:441][ 74]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2023.11.09-16.50.37:441][ 74]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2023.11.09-16.51.05:989][907]BlueprintLog: New page: Compile BP_Player
+[2023.11.09-16.51.06:062][907]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-16.51.06:063][907]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-16.51.06:102][907]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.11.09-16.51.06:113][907]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-16.51.06:113][907]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-16.51.06:114][907]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-16.51.06:134][907]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-16.51.06:135][907]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-16.51.06:135][907]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-16.51.06:291][907]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.09-16.51.06:465][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Player/BP_Player" FILE="../../../../../Projects/ProjectKurs/Content/Characters/Player/BP_Player.uasset" SILENT=true
+[2023.11.09-16.51.06:533][907]LogSavePackage: Moving output files for package: /Game/Characters/Player/BP_Player
+[2023.11.09-16.51.06:533][907]LogSavePackage: Moving '../../../../../Projects/ProjectKurs/Saved/BP_PlayerABFD212E4FEFF99131733CA104D0D7B6.tmp' to '../../../../../Projects/ProjectKurs/Content/Characters/Player/BP_Player.uasset'
+[2023.11.09-16.51.06:543][907]LogFileHelpers: InternalPromptForCheckoutAndSave took 252 ms (total: 5.35 sec)
+[2023.11.09-16.51.06:550][907]AssetCheck: New page: Asset Save: BP_Player
+[2023.11.09-16.51.06:550][907]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Characters/Player/BP_Player.BP_Player
+[2023.11.09-16.51.35:917][686]LogContentBrowser: Deferred new asset file creation: BP_ValueObserver_Child
+[2023.11.09-16.51.35:945][686]LogContentBrowser: Creating deferred item: BP_ValueObserver_Child
+[2023.11.09-16.51.35:960][687]LogContentBrowser: Renaming the item being created (Deferred Item: BP_ValueObserver_Child).
+[2023.11.09-16.51.44:892][254]LogContentBrowser: Attempting asset rename: BP_ValueObserver_Child -> BP_StaminaObserver
+[2023.11.09-16.51.45:056][254]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Characters/BP_StaminaObserver.
+[2023.11.09-16.51.45:056][254]LogContentBrowser: End creating deferred item BP_ValueObserver_Child
+[2023.11.09-16.51.45:695][290]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/BP_StaminaObserver.BP_StaminaObserver
+[2023.11.09-16.51.45:695][290]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-16.51.45:695][290]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-16.51.53:345][142]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2023.11.09-16.51.53:345][142]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-16.51.53:353][142]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2023.11.09-16.51.53:353][142]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-16.51.53:908][190]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2023.11.09-16.51.53:908][190]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-16.51.53:916][190]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2023.11.09-16.51.53:916][190]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-16.51.55:568][365]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2023.11.09-16.51.55:569][365]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-16.51.55:576][365]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2023.11.09-16.51.55:576][365]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-16.53.13:049][204]LogEditorTransaction: Undo Resize Node
+[2023.11.09-16.53.13:280][206]LogEditorTransaction: Undo Resize Node
+[2023.11.09-17.01.53:216][509]BlueprintLog: New page: Compile BP_StaminaObserver
+[2023.11.09-17.01.53:273][509]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.11.09-17.01.53:450][509]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.09-17.01.53:515][509]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_StaminaObserver" FILE="../../../../../Projects/ProjectKurs/Content/Characters/BP_StaminaObserver.uasset" SILENT=true
+[2023.11.09-17.01.53:523][509]LogSavePackage: Moving output files for package: /Game/Characters/BP_StaminaObserver
+[2023.11.09-17.01.53:523][509]LogSavePackage: Moving '../../../../../Projects/ProjectKurs/Saved/BP_StaminaObserver23A4838C4470576CE064A1B2FA63DA3A.tmp' to '../../../../../Projects/ProjectKurs/Content/Characters/BP_StaminaObserver.uasset'
+[2023.11.09-17.01.53:525][509]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Characters/BP_StaminaObserver.
+[2023.11.09-17.01.53:738][509]SourceControl: Error: The following paths are ignored by one of your .gitignore files:
+[2023.11.09-17.01.53:738][509]SourceControl: Error: Content/Characters/BP_StaminaObserver.uasset
+[2023.11.09-17.01.53:738][509]SourceControl: Error: hint: Use -f if you really want to add them.
+[2023.11.09-17.01.53:738][509]SourceControl: Error: hint: Turn this message off by running
+[2023.11.09-17.01.53:738][509]SourceControl: Error: hint: "git config advice.addIgnoredFile false"
+[2023.11.09-17.01.53:740][509]LogFileHelpers: InternalPromptForCheckoutAndSave took 290 ms (total: 5.64 sec)
+[2023.11.09-17.01.53:741][509]AssetCheck: New page: Asset Save: BP_StaminaObserver
+[2023.11.09-17.01.53:741][509]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Characters/BP_StaminaObserver.BP_StaminaObserver
+[2023.11.09-17.05.14:659][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.11.09-17.05.14:664][827]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.031
+[2023.11.09-17.05.14:664][827]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/BP_ValueObserver] ([2] browsable assets)...
+[2023.11.09-17.05.14:664][827]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/BP_ValueObserver]
+[2023.11.09-17.05.14:664][827]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_ValueObserver" FILE="../../../../../Projects/ProjectKurs/Saved/Autosaves/Game/Characters/BP_ValueObserver_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2023.11.09-17.05.14:674][827]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/BP_ValueObserver_Auto5
+[2023.11.09-17.05.14:674][827]LogSavePackage: Moving '../../../../../Projects/ProjectKurs/Saved/BP_ValueObserver_Auto5711FA4FD433CBC69D8A1F289D79B6D86.tmp' to '../../../../../Projects/ProjectKurs/Saved/Autosaves/Game/Characters/BP_ValueObserver_Auto5.uasset'
+[2023.11.09-17.05.14:675][827]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/BP_StaminaObserver] ([2] browsable assets)...
+[2023.11.09-17.05.14:675][827]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/BP_StaminaObserver]
+[2023.11.09-17.05.14:675][827]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_StaminaObserver" FILE="../../../../../Projects/ProjectKurs/Saved/Autosaves/Game/Characters/BP_StaminaObserver_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2023.11.09-17.05.14:684][827]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/BP_StaminaObserver_Auto5
+[2023.11.09-17.05.14:684][827]LogSavePackage: Moving '../../../../../Projects/ProjectKurs/Saved/BP_StaminaObserver_Auto59E11257A47F292C9ADB7E5A6064C481F.tmp' to '../../../../../Projects/ProjectKurs/Saved/Autosaves/Game/Characters/BP_StaminaObserver_Auto5.uasset'
+[2023.11.09-17.05.14:685][827]LogFileHelpers: Auto-saving content packages took 0.021
+[2023.11.09-17.06.36:443][895]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2023.11.09-17.06.36:443][895]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2023.11.09-17.06.38:227][ 63]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.09-17.06.38:234][ 63]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.11.09-17.06.38:234][ 63]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2023.11.09-17.06.38:237][ 63]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2 ms (total: 54 ms)
+[2023.11.09-17.06.38:237][ 63]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.11.09-17.06.38:276][ 63]LogPlayLevel: [PlayLevel] Compiling BP_ValueObserver before play...
+[2023.11.09-17.06.38:276][ 63]LogPlayLevel: [PlayLevel]   Compiling BP_StaminaObserver as a dependent...
+[2023.11.09-17.06.38:304][ 63]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.06.38:305][ 63]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.06.38:466][ 63]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.06.38:467][ 63]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.06.38:468][ 63]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.06.38:478][ 63]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.06.38:479][ 63]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.06.38:479][ 63]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.06.38:616][ 63]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.09-17.06.38:678][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_ValueObserver" FILE="../../../../../Projects/ProjectKurs/Content/Characters/BP_ValueObserver.uasset" SILENT=true
+[2023.11.09-17.06.38:689][ 63]LogSavePackage: Moving output files for package: /Game/Characters/BP_ValueObserver
+[2023.11.09-17.06.38:689][ 63]LogSavePackage: Moving '../../../../../Projects/ProjectKurs/Saved/BP_ValueObserver7E61D33645D0DE7FB7E59283CB41874B.tmp' to '../../../../../Projects/ProjectKurs/Content/Characters/BP_ValueObserver.uasset'
+[2023.11.09-17.06.38:690][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_StaminaObserver" FILE="../../../../../Projects/ProjectKurs/Content/Characters/BP_StaminaObserver.uasset" SILENT=true
+[2023.11.09-17.06.38:699][ 63]LogSavePackage: Moving output files for package: /Game/Characters/BP_StaminaObserver
+[2023.11.09-17.06.38:699][ 63]LogSavePackage: Moving '../../../../../Projects/ProjectKurs/Saved/BP_StaminaObserver981CFC394A91222AD3888CACC23761CC.tmp' to '../../../../../Projects/ProjectKurs/Content/Characters/BP_StaminaObserver.uasset'
+[2023.11.09-17.06.38:711][ 63]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 5.74 sec)
+[2023.11.09-17.06.38:734][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.11.09-17.06.38:740][ 63]LogPlayLevel: PlayLevel: Blueprint regeneration took 503 ms (2 blueprints)
+[2023.11.09-17.06.38:740][ 63]PIE: New page: PIE session: FirstPersonMap (9 нояб. 2023 г., 23:06:38)
+[2023.11.09-17.06.38:741][ 63]LogPlayLevel: Display: Creating online subsystem for client :Context_48
+[2023.11.09-17.06.38:743][ 63]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2023.11.09-17.06.38:798][ 64]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.09-17.06.38:798][ 64]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Characters/BP_ValueObserver.BP_ValueObserver
+[2023.11.09-17.06.38:798][ 64]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Characters/BP_StaminaObserver.BP_StaminaObserver
+[2023.11.09-17.06.38:798][ 64]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.11.09-17.06.38:806][ 64]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007283s)
+[2023.11.09-17.06.38:806][ 64]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.007326s)
+[2023.11.09-17.06.38:824][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.11.09-17.06.38:827][ 64]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-17.06.38:827][ 64]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-17.06.38:827][ 64]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.11.09-17.06.38:828][ 64]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.11.09-17.06.38:828][ 64]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.09-17.06.38:828][ 64]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.11.09-17.06.38:828][ 64]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.11.09-17.06.38:830][ 64]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2023.11.09-17.06.38:830][ 64]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 117 ms)
+[2023.11.09-17.06.38:830][ 64]LogPlayLevel: PIE: World Init took: (0.003113s)
+[2023.11.09-17.06.38:830][ 64]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2023.11.09-17.06.38:830][ 64]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.09-17.06.38:830][ 64]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.09-17.06.38:830][ 64]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.09-17.06.38:830][ 64]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.09-17.06.38:830][ 64]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.09-17.06.38:830][ 64]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.09-17.06.38:830][ 64]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.09-17.06.38:830][ 64]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.09-17.06.38:831][ 64]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.09-17.06.38:831][ 64]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.09-17.06.38:831][ 64]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.09-17.06.38:833][ 64]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.09-17.06.38:872][ 64]LogAudioMixer: Display: Using Audio Hardware Device Динамики (2- USB Audio Device)
+[2023.11.09-17.06.38:873][ 64]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.09-17.06.38:873][ 64]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.09-17.06.38:873][ 64]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.09-17.06.38:873][ 64]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2023.11.09-17.06.38:873][ 64]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2023.11.09-17.06.38:876][ 64]LogInit: FAudioDevice initialized with ID 21.
+[2023.11.09-17.06.38:876][ 64]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2023.11.09-17.06.38:876][ 64]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2023.11.09-17.06.38:876][ 64]LogAudio: Display: Audio Device (ID: 21) registered with world 'FirstPersonMap'.
+[2023.11.09-17.06.38:876][ 64]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2023.11.09-17.06.38:930][ 64]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-17.06.38:930][ 64]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.09-17.06.38:934][ 64]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.11.09-20.06.38
+[2023.11.09-17.06.38:934][ 64]LogWorld: Bringing up level for play took: 0.003360
+[2023.11.09-17.06.38:936][ 64]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.06.38:946][ 64]PIE: Server logged in
+[2023.11.09-17.06.38:947][ 64]PIE: Play in editor total start time 0,713 seconds.
+[2023.11.09-17.06.38:967][ 64]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.11.09-17.06.39:705][ 79]LogBlueprintUserMessages: [BP_Weapon_Component] StaticMeshComponent0
+[2023.11.09-17.06.46:879][460]LogBlueprintUserMessages: [BP_Player_C_0] 100.0
+[2023.11.09-17.06.53:919][838]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2023.11.09-17.06.53:919][838]Cmd: quit
+[2023.11.09-17.06.53:920][838]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-17.06.53:921][838]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.11.09-17.06.53:922][838]LogSlate: Window 'ProjectKurs Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2023.11.09-17.06.53:941][838]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.09-17.06.53:942][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-17.06.53:942][838]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2023.11.09-17.06.53:945][838]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.09-17.06.53:951][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-17.06.53:975][838]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2023.11.09-17.06.53:975][838]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2023.11.09-17.06.53:977][838]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2023.11.09-17.06.53:987][838]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.11.09-17.06.54:058][839]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2023.11.09-17.07.14:680][110]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.07.14:680][110]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.07.14:683][110]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.07.17:954][470]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2023.11.09-17.07.17:954][470]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2023.11.09-17.07.20:982][813]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.07.20:983][813]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.07.20:986][813]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.07.25:539][316]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.07.25:540][316]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.07.25:542][316]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.09.27:650][315]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.09-17.09.27:785][315]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Player/BP_Player" FILE="../../../../../Projects/ProjectKurs/Content/Characters/Player/BP_Player.uasset" SILENT=true
+[2023.11.09-17.09.27:838][315]LogSavePackage: Moving output files for package: /Game/Characters/Player/BP_Player
+[2023.11.09-17.09.27:838][315]LogSavePackage: Moving '../../../../../Projects/ProjectKurs/Saved/BP_Player9BE025134B3150F490E1CFA0F943A20E.tmp' to '../../../../../Projects/ProjectKurs/Content/Characters/Player/BP_Player.uasset'
+[2023.11.09-17.09.27:851][315]LogFileHelpers: InternalPromptForCheckoutAndSave took 200 ms (total: 5.94 sec)
+[2023.11.09-17.09.27:853][315]AssetCheck: New page: Asset Save: BP_Player
+[2023.11.09-17.09.27:853][315]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Characters/Player/BP_Player.BP_Player
+[2023.11.09-17.12.57:874][101]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2023.11.09-17.12.57:874][101]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2023.11.09-17.13.08:264][330]BlueprintLog: New page: Compile BP_Player
+[2023.11.09-17.13.08:310][330]LogBlueprint: Error: [AssetLog] E:\Projects\ProjectKurs\Content\Characters\Player\BP_Player.uasset: [Compiler] Event Dispatcher pin is not connected  Bind Event to On Empty
+[2023.11.09-17.13.08:369][330]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.11.09-17.13.08:677][330]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.09-17.13.08:855][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Player/BP_Player" FILE="../../../../../Projects/ProjectKurs/Content/Characters/Player/BP_Player.uasset" SILENT=true
+[2023.11.09-17.13.08:905][330]LogSavePackage: Moving output files for package: /Game/Characters/Player/BP_Player
+[2023.11.09-17.13.08:906][330]LogSavePackage: Moving '../../../../../Projects/ProjectKurs/Saved/BP_Player09A90BD34EE9CFE843564CABEAB1FBD8.tmp' to '../../../../../Projects/ProjectKurs/Content/Characters/Player/BP_Player.uasset'
+[2023.11.09-17.13.08:918][330]LogFileHelpers: InternalPromptForCheckoutAndSave took 240 ms (total: 6.18 sec)
+[2023.11.09-17.13.08:926][330]AssetCheck: New page: Asset Save: BP_Player
+[2023.11.09-17.13.08:926][330]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Characters/Player/BP_Player.BP_Player
+[2023.11.09-17.13.15:917][100]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2023.11.09-17.13.15:917][100]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2023.11.09-17.13.25:559][162]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.13.25:560][162]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.13.29:397][582]BlueprintLog: New page: Compile BP_Player
+[2023.11.09-17.13.29:465][582]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.13.29:466][582]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.13.29:507][582]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.11.09-17.13.29:516][582]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.13.29:516][582]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.13.29:517][582]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.13.29:654][582]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.13.29:655][582]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.13.29:656][582]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.13.29:798][582]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.09-17.13.29:963][582]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Player/BP_Player" FILE="../../../../../Projects/ProjectKurs/Content/Characters/Player/BP_Player.uasset" SILENT=true
+[2023.11.09-17.13.30:016][582]LogSavePackage: Moving output files for package: /Game/Characters/Player/BP_Player
+[2023.11.09-17.13.30:016][582]LogSavePackage: Moving '../../../../../Projects/ProjectKurs/Saved/BP_Player948B234F4622D52ADB41EB8121FD1BFE.tmp' to '../../../../../Projects/ProjectKurs/Content/Characters/Player/BP_Player.uasset'
+[2023.11.09-17.13.30:028][582]LogFileHelpers: InternalPromptForCheckoutAndSave took 230 ms (total: 6.41 sec)
+[2023.11.09-17.13.30:031][582]AssetCheck: New page: Asset Save: BP_Player
+[2023.11.09-17.13.30:031][582]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Characters/Player/BP_Player.BP_Player
+[2023.11.09-17.13.42:777][938]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.13.42:778][938]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.13.42:781][938]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.13.43:830][ 15]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.13.43:830][ 15]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.13.43:833][ 15]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.13.48:564][458]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.13.48:564][458]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.13.48:567][458]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.13.49:590][534]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.13.49:591][534]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.13.49:593][534]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.13.56:899][280]BlueprintLog: New page: Compile BP_Player
+[2023.11.09-17.13.56:966][280]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.13.56:967][280]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.13.57:009][280]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.11.09-17.13.57:017][280]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.13.57:018][280]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.13.57:018][280]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.13.57:150][280]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.13.57:150][280]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.13.57:151][280]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.13.57:310][280]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.09-17.13.57:479][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Player/BP_Player" FILE="../../../../../Projects/ProjectKurs/Content/Characters/Player/BP_Player.uasset" SILENT=true
+[2023.11.09-17.13.57:537][280]LogSavePackage: Moving output files for package: /Game/Characters/Player/BP_Player
+[2023.11.09-17.13.57:537][280]LogSavePackage: Moving '../../../../../Projects/ProjectKurs/Saved/BP_PlayerCE3AE88449C44E6A1ABD87BA7967B9D3.tmp' to '../../../../../Projects/ProjectKurs/Content/Characters/Player/BP_Player.uasset'
+[2023.11.09-17.13.57:551][280]LogFileHelpers: InternalPromptForCheckoutAndSave took 240 ms (total: 6.65 sec)
+[2023.11.09-17.13.57:553][280]AssetCheck: New page: Asset Save: BP_Player
+[2023.11.09-17.13.57:553][280]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Characters/Player/BP_Player.BP_Player
+[2023.11.09-17.14.09:609][538]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WBP_Main.WBP_Main
+[2023.11.09-17.14.09:610][538]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-17.14.09:610][538]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-17.14.09:621][538]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-17.14.09:621][538]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-17.14.14:429][ 36]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.14.14:430][ 36]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.14.14:433][ 36]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.14.20:563][724]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.14.20:564][724]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.14.20:567][724]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.14.28:541][607]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.14.28:542][607]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.14.28:545][607]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.14.33:050][121]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WBP_Stamina.WBP_Stamina
+[2023.11.09-17.14.33:050][121]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-17.14.33:050][121]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-17.14.33:061][121]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-17.14.33:061][121]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-17.15.16:272][344]LogSlate: Window 'Color Picker' being destroyed
+[2023.11.09-17.16.33:001][339]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.16.33:002][339]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.16.33:005][339]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.16.36:578][702]BlueprintLog: New page: Compile WBP_Main
+[2023.11.09-17.16.36:603][702]LogBlueprint: Error: [AssetLog] E:\Projects\ProjectKurs\Content\Characters\Player\BP_Player.uasset: [Compiler] In use pin  Player Model  no longer exists on node  Init . Please refresh node or break links to remove pin.
+[2023.11.09-17.16.36:676][702]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.11.09-17.16.37:052][702]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.09-17.16.37:213][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Player/BP_Player" FILE="../../../../../Projects/ProjectKurs/Content/Characters/Player/BP_Player.uasset" SILENT=true
+[2023.11.09-17.16.37:254][702]LogSavePackage: Moving output files for package: /Game/Characters/Player/BP_Player
+[2023.11.09-17.16.37:255][702]LogSavePackage: Moving '../../../../../Projects/ProjectKurs/Saved/BP_Player7C5C21A44C9057C4CEA8AA8A34038BED.tmp' to '../../../../../Projects/ProjectKurs/Content/Characters/Player/BP_Player.uasset'
+[2023.11.09-17.16.37:262][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_Main" FILE="../../../../../Projects/ProjectKurs/Content/UI/WBP_Main.uasset" SILENT=true
+[2023.11.09-17.16.37:268][702]LogSavePackage: Moving output files for package: /Game/UI/WBP_Main
+[2023.11.09-17.16.37:268][702]LogSavePackage: Moving '../../../../../Projects/ProjectKurs/Saved/WBP_Main3B4EA7CF4200CFAADF677BB074AAA58E.tmp' to '../../../../../Projects/ProjectKurs/Content/UI/WBP_Main.uasset'
+[2023.11.09-17.16.37:281][702]LogFileHelpers: InternalPromptForCheckoutAndSave took 228 ms (total: 6.88 sec)
+[2023.11.09-17.16.37:290][702]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.09-17.16.37:290][702]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Characters/Player/BP_Player.BP_Player
+[2023.11.09-17.16.37:290][702]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_Main.WBP_Main
+[2023.11.09-17.16.44:993][441]LogDerivedDataCache: C:/Users/DareD/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:20.096 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 10303 files in 12606 folders with total size 1802 MiB.
+[2023.11.09-17.17.06:307][733]BlueprintLog: New page: Compile BP_Player
+[2023.11.09-17.17.06:375][733]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.17.06:376][733]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.17.06:414][733]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.11.09-17.17.06:422][733]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.17.06:423][733]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.17.06:423][733]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.17.06:558][733]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.17.06:559][733]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.17.06:559][733]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.17.06:713][733]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.09-17.17.06:878][733]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Player/BP_Player" FILE="../../../../../Projects/ProjectKurs/Content/Characters/Player/BP_Player.uasset" SILENT=true
+[2023.11.09-17.17.06:921][733]LogSavePackage: Moving output files for package: /Game/Characters/Player/BP_Player
+[2023.11.09-17.17.06:921][733]LogSavePackage: Moving '../../../../../Projects/ProjectKurs/Saved/BP_Player6847EC004FB09BF6F75897B35C4EA12B.tmp' to '../../../../../Projects/ProjectKurs/Content/Characters/Player/BP_Player.uasset'
+[2023.11.09-17.17.06:933][733]LogFileHelpers: InternalPromptForCheckoutAndSave took 220 ms (total: 7.10 sec)
+[2023.11.09-17.17.06:935][733]AssetCheck: New page: Asset Save: BP_Player
+[2023.11.09-17.17.06:935][733]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Characters/Player/BP_Player.BP_Player
+[2023.11.09-17.17.12:961][404]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.09-17.17.12:969][404]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.11.09-17.17.12:969][404]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2023.11.09-17.17.12:971][404]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2 ms (total: 56 ms)
+[2023.11.09-17.17.12:971][404]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.09-17.17.12:971][404]PIE: New page: PIE session: FirstPersonMap (9 нояб. 2023 г., 23:17:12)
+[2023.11.09-17.17.12:971][404]LogPlayLevel: Display: Creating online subsystem for client :Context_53
+[2023.11.09-17.17.12:974][404]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2023.11.09-17.17.12:983][405]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.11.09-17.17.12:990][405]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006985s)
+[2023.11.09-17.17.12:990][405]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.007043s)
+[2023.11.09-17.17.13:011][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.11.09-17.17.13:014][405]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-17.17.13:014][405]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-17.17.13:014][405]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.11.09-17.17.13:015][405]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.11.09-17.17.13:015][405]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.09-17.17.13:015][405]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.11.09-17.17.13:015][405]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.11.09-17.17.13:017][405]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2023.11.09-17.17.13:017][405]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 119 ms)
+[2023.11.09-17.17.13:017][405]LogPlayLevel: PIE: World Init took: (0.003034s)
+[2023.11.09-17.17.13:017][405]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2023.11.09-17.17.13:017][405]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.09-17.17.13:017][405]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.09-17.17.13:017][405]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.09-17.17.13:017][405]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.09-17.17.13:017][405]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.09-17.17.13:017][405]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.09-17.17.13:017][405]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.09-17.17.13:017][405]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.09-17.17.13:017][405]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.09-17.17.13:018][405]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.09-17.17.13:018][405]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.09-17.17.13:020][405]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.09-17.17.13:058][405]LogAudioMixer: Display: Using Audio Hardware Device Динамики (2- USB Audio Device)
+[2023.11.09-17.17.13:059][405]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.09-17.17.13:059][405]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.09-17.17.13:059][405]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.09-17.17.13:059][405]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2023.11.09-17.17.13:060][405]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2023.11.09-17.17.13:062][405]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2023.11.09-17.17.13:062][405]LogInit: FAudioDevice initialized with ID 22.
+[2023.11.09-17.17.13:062][405]LogAudio: Display: Audio Device (ID: 22) registered with world 'FirstPersonMap'.
+[2023.11.09-17.17.13:062][405]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2023.11.09-17.17.13:062][405]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2023.11.09-17.17.13:122][405]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-17.17.13:122][405]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.09-17.17.13:126][405]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.11.09-20.17.13
+[2023.11.09-17.17.13:126][405]LogWorld: Bringing up level for play took: 0.003185
+[2023.11.09-17.17.13:128][405]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.17.13:140][405]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.11.09-17.17.13:140][405]LogScript: Warning: Script Msg called by: WBP_ValueProgress_C /Engine/Transient.UnrealEdEngine_0:GameInstance_20.WBP_Main_C_0.WidgetTree_0.WBP_StaminaProgress
+[2023.11.09-17.17.13:144][405]PIE: Server logged in
+[2023.11.09-17.17.13:148][405]PIE: Play in editor total start time 0,179 seconds.
+[2023.11.09-17.17.13:161][405]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.11.09-17.17.14:041][429]LogBlueprintUserMessages: [BP_Weapon_Component] StaticMeshComponent0
+[2023.11.09-17.17.16:574][564]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-17.17.16:574][564]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.11.09-17.17.16:576][564]LogSlate: Window 'ProjectKurs Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2023.11.09-17.17.16:582][564]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.09-17.17.16:582][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-17.17.16:582][564]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2023.11.09-17.17.16:585][564]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.09-17.17.16:591][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-17.17.16:615][564]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.09-17.17.16:616][564]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2023.11.09-17.17.16:616][564]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.11.09-17.17.16:618][564]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.11.09-17.17.16:628][564]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.11.09-17.17.16:700][565]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2023.11.09-17.17.24:556][316]BlueprintLog: New page: Compile BP_Player
+[2023.11.09-17.17.24:624][316]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.17.24:625][316]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.17.24:663][316]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.11.09-17.17.24:672][316]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.17.24:672][316]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.17.24:673][316]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.17.24:815][316]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.17.24:816][316]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.17.24:816][316]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.17.46:059][214]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.17.46:059][214]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.17.46:063][214]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.17.46:064][214]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.17.46:066][214]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.17.49:836][530]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.09-17.17.49:844][530]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.11.09-17.17.49:844][530]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2023.11.09-17.17.49:846][530]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2 ms (total: 58 ms)
+[2023.11.09-17.17.49:847][530]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.11.09-17.17.49:850][530]LogPlayLevel: [PlayLevel] Compiling FirstPerson_AnimBP before play...
+[2023.11.09-17.17.49:852][530]LogPlayLevel: [PlayLevel]   Compiling BP_Player as a dependent...
+[2023.11.09-17.17.49:912][530]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.17.49:913][530]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.17.49:936][530]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.17.49:936][530]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.17.49:937][530]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.17.50:068][530]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.17.50:069][530]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.17.50:069][530]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.17.50:211][530]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.09-17.17.50:354][530]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Player/BP_Player" FILE="../../../../../Projects/ProjectKurs/Content/Characters/Player/BP_Player.uasset" SILENT=true
+[2023.11.09-17.17.50:396][530]LogSavePackage: Moving output files for package: /Game/Characters/Player/BP_Player
+[2023.11.09-17.17.50:396][530]LogSavePackage: Moving '../../../../../Projects/ProjectKurs/Saved/BP_PlayerAA9BC5F545BD85758A0EA5B6F16F965A.tmp' to '../../../../../Projects/ProjectKurs/Content/Characters/Player/BP_Player.uasset'
+[2023.11.09-17.17.50:409][530]LogFileHelpers: InternalPromptForCheckoutAndSave took 198 ms (total: 7.30 sec)
+[2023.11.09-17.17.50:437][530]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.11.09-17.17.50:440][530]LogPlayLevel: PlayLevel: Blueprint regeneration took 593 ms (2 blueprints)
+[2023.11.09-17.17.50:440][530]PIE: New page: PIE session: FirstPersonMap (9 нояб. 2023 г., 23:17:50)
+[2023.11.09-17.17.50:440][530]LogPlayLevel: Display: Creating online subsystem for client :Context_54
+[2023.11.09-17.17.50:442][530]LogOnline: OSS: Created online subsystem instance for: :Context_54
+[2023.11.09-17.17.50:626][531]AssetCheck: New page: Asset Save: BP_Player
+[2023.11.09-17.17.50:626][531]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Characters/Player/BP_Player.BP_Player
+[2023.11.09-17.17.50:655][531]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.11.09-17.17.50:662][531]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006576s)
+[2023.11.09-17.17.50:662][531]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.006624s)
+[2023.11.09-17.17.50:680][531]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.11.09-17.17.50:682][531]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-17.17.50:682][531]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-17.17.50:683][531]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.11.09-17.17.50:684][531]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.11.09-17.17.50:684][531]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.09-17.17.50:684][531]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.11.09-17.17.50:684][531]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.11.09-17.17.50:685][531]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2023.11.09-17.17.50:685][531]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 121 ms)
+[2023.11.09-17.17.50:685][531]LogPlayLevel: PIE: World Init took: (0.003185s)
+[2023.11.09-17.17.50:685][531]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2023.11.09-17.17.50:686][531]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.09-17.17.50:686][531]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.09-17.17.50:686][531]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.09-17.17.50:686][531]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.09-17.17.50:686][531]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.09-17.17.50:686][531]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.09-17.17.50:686][531]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.09-17.17.50:686][531]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.09-17.17.50:686][531]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.09-17.17.50:686][531]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.09-17.17.50:686][531]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.09-17.17.50:689][531]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.09-17.17.50:727][531]LogAudioMixer: Display: Using Audio Hardware Device Динамики (2- USB Audio Device)
+[2023.11.09-17.17.50:727][531]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.09-17.17.50:727][531]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.09-17.17.50:727][531]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.09-17.17.50:728][531]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2023.11.09-17.17.50:728][531]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2023.11.09-17.17.50:730][531]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2023.11.09-17.17.50:730][531]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2023.11.09-17.17.50:730][531]LogInit: FAudioDevice initialized with ID 23.
+[2023.11.09-17.17.50:731][531]LogAudio: Display: Audio Device (ID: 23) registered with world 'FirstPersonMap'.
+[2023.11.09-17.17.50:731][531]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2023.11.09-17.17.50:788][531]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-17.17.50:788][531]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.09-17.17.50:791][531]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.11.09-20.17.50
+[2023.11.09-17.17.50:791][531]LogWorld: Bringing up level for play took: 0.002904
+[2023.11.09-17.17.50:793][531]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.17.50:806][531]PIE: Server logged in
+[2023.11.09-17.17.50:809][531]PIE: Play in editor total start time 0,966 seconds.
+[2023.11.09-17.17.50:975][531]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.11.09-17.17.51:764][558]LogBlueprintUserMessages: [BP_Weapon_Component] StaticMeshComponent0
+[2023.11.09-17.17.52:190][582]LogScript: Warning: Script Msg: StaminaObserver DecreaseStamina SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2023.11.09-17.17.52:190][582]LogScript: Warning: Script Msg called by: BP_StaminaObserver_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Player_C_0.StaminaObserver
+[2023.11.09-17.18.05:323][273]LogScript: Warning: Script Msg: StaminaObserver RecoverStamina SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2023.11.09-17.18.05:323][273]LogScript: Warning: Script Msg called by: BP_StaminaObserver_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Player_C_0.StaminaObserver
+[2023.11.09-17.18.05:777][297]LogScript: Warning: Script Msg: StaminaObserver DecreaseStamina SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2023.11.09-17.18.05:777][297]LogScript: Warning: Script Msg called by: BP_StaminaObserver_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Player_C_0.StaminaObserver
+[2023.11.09-17.18.07:676][397]LogScript: Warning: Script Msg: StaminaObserver RecoverStamina SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2023.11.09-17.18.07:676][397]LogScript: Warning: Script Msg called by: BP_StaminaObserver_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Player_C_0.StaminaObserver
+[2023.11.09-17.18.08:544][443]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-17.18.08:544][443]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.11.09-17.18.08:545][443]LogSlate: Window 'ProjectKurs Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2023.11.09-17.18.08:551][443]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.09-17.18.08:552][443]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-17.18.08:552][443]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2023.11.09-17.18.08:555][443]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.09-17.18.08:561][443]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-17.18.08:587][443]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2023.11.09-17.18.08:587][443]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.11.09-17.18.08:589][443]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.11.09-17.18.08:598][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.11.09-17.18.08:699][444]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2023.11.09-17.19.01:258][926]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.09-17.19.01:266][926]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.11.09-17.19.01:266][926]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2023.11.09-17.19.01:268][926]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2 ms (total: 60 ms)
+[2023.11.09-17.19.01:268][926]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.11.09-17.19.01:279][926]LogPlayLevel: [PlayLevel] Compiling BP_StaminaObserver before play...
+[2023.11.09-17.19.01:302][926]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.19.01:303][926]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.19.01:479][926]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.19.01:480][926]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.19.01:480][926]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.19.01:489][926]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.19.01:489][926]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.19.01:490][926]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.19.01:639][926]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.09-17.19.01:701][926]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_StaminaObserver" FILE="../../../../../Projects/ProjectKurs/Content/Characters/BP_StaminaObserver.uasset" SILENT=true
+[2023.11.09-17.19.01:711][926]LogSavePackage: Moving output files for package: /Game/Characters/BP_StaminaObserver
+[2023.11.09-17.19.01:711][926]LogSavePackage: Moving '../../../../../Projects/ProjectKurs/Saved/BP_StaminaObserver3555A5BE4F3CCEB1E3CAA882FA49D3D8.tmp' to '../../../../../Projects/ProjectKurs/Content/Characters/BP_StaminaObserver.uasset'
+[2023.11.09-17.19.01:725][926]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 7.38 sec)
+[2023.11.09-17.19.01:748][926]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.11.09-17.19.01:751][926]LogPlayLevel: PlayLevel: Blueprint regeneration took 483 ms (1 blueprints)
+[2023.11.09-17.19.01:751][926]PIE: New page: PIE session: FirstPersonMap (9 нояб. 2023 г., 23:19:01)
+[2023.11.09-17.19.01:751][926]LogPlayLevel: Display: Creating online subsystem for client :Context_55
+[2023.11.09-17.19.01:753][926]LogOnline: OSS: Created online subsystem instance for: :Context_55
+[2023.11.09-17.19.01:837][927]AssetCheck: New page: Asset Save: BP_StaminaObserver
+[2023.11.09-17.19.01:837][927]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Characters/BP_StaminaObserver.BP_StaminaObserver
+[2023.11.09-17.19.01:865][927]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.11.09-17.19.01:871][927]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006129s)
+[2023.11.09-17.19.01:871][927]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.006175s)
+[2023.11.09-17.19.01:889][927]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.11.09-17.19.01:892][927]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-17.19.01:892][927]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-17.19.01:893][927]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.11.09-17.19.01:893][927]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.11.09-17.19.01:893][927]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.09-17.19.01:893][927]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.11.09-17.19.01:893][927]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.11.09-17.19.01:895][927]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2023.11.09-17.19.01:895][927]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 122 ms)
+[2023.11.09-17.19.01:895][927]LogPlayLevel: PIE: World Init took: (0.003012s)
+[2023.11.09-17.19.01:895][927]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2023.11.09-17.19.01:895][927]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.09-17.19.01:895][927]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.09-17.19.01:895][927]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.09-17.19.01:895][927]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.09-17.19.01:895][927]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.09-17.19.01:895][927]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.09-17.19.01:895][927]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.09-17.19.01:895][927]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.09-17.19.01:896][927]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.09-17.19.01:896][927]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.09-17.19.01:896][927]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.09-17.19.01:898][927]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.09-17.19.01:935][927]LogAudioMixer: Display: Using Audio Hardware Device Динамики (2- USB Audio Device)
+[2023.11.09-17.19.01:935][927]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.09-17.19.01:935][927]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.09-17.19.01:935][927]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.09-17.19.01:937][927]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2023.11.09-17.19.01:937][927]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2023.11.09-17.19.01:939][927]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2023.11.09-17.19.01:939][927]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2023.11.09-17.19.01:939][927]LogInit: FAudioDevice initialized with ID 24.
+[2023.11.09-17.19.01:939][927]LogAudio: Display: Audio Device (ID: 24) registered with world 'FirstPersonMap'.
+[2023.11.09-17.19.01:939][927]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2023.11.09-17.19.02:003][927]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-17.19.02:003][927]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.09-17.19.02:007][927]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.11.09-20.19.02
+[2023.11.09-17.19.02:007][927]LogWorld: Bringing up level for play took: 0.003059
+[2023.11.09-17.19.02:009][927]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.19.02:019][927]PIE: Server logged in
+[2023.11.09-17.19.02:021][927]PIE: Play in editor total start time 0,755 seconds.
+[2023.11.09-17.19.02:153][927]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.11.09-17.19.02:884][947]LogBlueprintUserMessages: [BP_Weapon_Component] StaticMeshComponent0
+[2023.11.09-17.19.03:371][974]LogScript: Warning: Script Msg: StaminaObserver DecreaseStamina SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2023.11.09-17.19.03:371][974]LogScript: Warning: Script Msg called by: BP_StaminaObserver_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Player_C_0.StaminaObserver
+[2023.11.09-17.19.06:228][123]LogScript: Warning: Script Msg: StaminaObserver RecoverStamina SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2023.11.09-17.19.06:228][123]LogScript: Warning: Script Msg called by: BP_StaminaObserver_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Player_C_0.StaminaObserver
+[2023.11.09-17.19.06:564][139]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-17.19.06:564][139]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.11.09-17.19.06:566][139]LogSlate: Window 'ProjectKurs Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2023.11.09-17.19.06:576][139]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.09-17.19.06:577][139]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-17.19.06:577][139]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2023.11.09-17.19.06:580][139]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.09-17.19.06:586][139]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-17.19.06:609][139]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2023.11.09-17.19.06:609][139]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2023.11.09-17.19.06:612][139]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2023.11.09-17.19.06:621][139]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.11.09-17.19.06:696][140]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2023.11.09-17.19.16:465][184]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.19.16:466][184]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.19.45:688][833]LogSlate: Window 'Delete Variable' being destroyed
+[2023.11.09-17.19.50:959][198]LogSlate: Window 'Delete Variable' being destroyed
+[2023.11.09-17.19.58:109][894]BlueprintLog: New page: Compile BP_StaminaObserver
+[2023.11.09-17.19.58:116][894]LogClass: Warning: Type mismatch in RecoverInterval of BP_StaminaObserver_C - Previous (StructProperty) Current(DoubleProperty) for package:  FObjectReader
+[2023.11.09-17.19.58:122][894]LogClass: Warning: Type mismatch in RecoverInterval of BP_StaminaObserver_C - Previous (StructProperty) Current(DoubleProperty) for package:  FObjectReader
+[2023.11.09-17.19.58:123][894]LogClass: Warning: Type mismatch in RecoverInterval of BP_StaminaObserver_C - Previous (StructProperty) Current(DoubleProperty) for package:  FObjectReader
+[2023.11.09-17.19.58:136][894]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.19.58:137][894]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.19.58:162][894]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.11.09-17.19.58:198][894]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.19.58:199][894]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.19.58:200][894]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.19.58:208][894]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.19.58:208][894]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.19.58:209][894]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.19.58:363][894]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.09-17.19.58:418][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_StaminaObserver" FILE="../../../../../Projects/ProjectKurs/Content/Characters/BP_StaminaObserver.uasset" SILENT=true
+[2023.11.09-17.19.58:427][894]LogSavePackage: Moving output files for package: /Game/Characters/BP_StaminaObserver
+[2023.11.09-17.19.58:427][894]LogSavePackage: Moving '../../../../../Projects/ProjectKurs/Saved/BP_StaminaObserver6EBECAFE48758B135ECCA3B3B689B76B.tmp' to '../../../../../Projects/ProjectKurs/Content/Characters/BP_StaminaObserver.uasset'
+[2023.11.09-17.19.58:439][894]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 7.46 sec)
+[2023.11.09-17.19.58:450][894]AssetCheck: New page: Asset Save: BP_StaminaObserver
+[2023.11.09-17.19.58:450][894]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Characters/BP_StaminaObserver.BP_StaminaObserver
+[2023.11.09-17.20.02:213][279]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.20.02:214][279]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.20.14:370][597]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.09-17.20.14:378][597]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.11.09-17.20.14:378][597]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2023.11.09-17.20.14:380][597]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2 ms (total: 63 ms)
+[2023.11.09-17.20.14:381][597]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.11.09-17.20.14:383][597]LogPlayLevel: [PlayLevel] Compiling BP_StaminaObserver before play...
+[2023.11.09-17.20.14:406][597]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.20.14:406][597]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.20.14:444][597]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.20.14:445][597]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.20.14:445][597]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.20.14:453][597]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.20.14:454][597]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.20.14:455][597]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.20.14:592][597]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.09-17.20.14:651][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_StaminaObserver" FILE="../../../../../Projects/ProjectKurs/Content/Characters/BP_StaminaObserver.uasset" SILENT=true
+[2023.11.09-17.20.14:661][597]LogSavePackage: Moving output files for package: /Game/Characters/BP_StaminaObserver
+[2023.11.09-17.20.14:661][597]LogSavePackage: Moving '../../../../../Projects/ProjectKurs/Saved/BP_StaminaObserverB4C416C54A6EDF89960BAAAE94CCCC59.tmp' to '../../../../../Projects/ProjectKurs/Content/Characters/BP_StaminaObserver.uasset'
+[2023.11.09-17.20.14:673][597]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 7.54 sec)
+[2023.11.09-17.20.14:696][597]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.11.09-17.20.14:701][597]LogPlayLevel: PlayLevel: Blueprint regeneration took 320 ms (1 blueprints)
+[2023.11.09-17.20.14:701][597]PIE: New page: PIE session: FirstPersonMap (9 нояб. 2023 г., 23:20:14)
+[2023.11.09-17.20.14:701][597]LogPlayLevel: Display: Creating online subsystem for client :Context_56
+[2023.11.09-17.20.14:703][597]LogOnline: OSS: Created online subsystem instance for: :Context_56
+[2023.11.09-17.20.14:777][598]AssetCheck: New page: Asset Save: BP_StaminaObserver
+[2023.11.09-17.20.14:777][598]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Characters/BP_StaminaObserver.BP_StaminaObserver
+[2023.11.09-17.20.14:806][598]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.11.09-17.20.14:812][598]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006133s)
+[2023.11.09-17.20.14:812][598]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.006203s)
+[2023.11.09-17.20.14:829][598]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.11.09-17.20.14:832][598]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-17.20.14:832][598]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-17.20.14:833][598]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.11.09-17.20.14:834][598]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.11.09-17.20.14:834][598]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.09-17.20.14:834][598]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.11.09-17.20.14:834][598]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.11.09-17.20.14:835][598]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2023.11.09-17.20.14:835][598]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 124 ms)
+[2023.11.09-17.20.14:835][598]LogPlayLevel: PIE: World Init took: (0.003086s)
+[2023.11.09-17.20.14:835][598]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2023.11.09-17.20.14:835][598]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.09-17.20.14:835][598]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.09-17.20.14:836][598]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.09-17.20.14:836][598]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.09-17.20.14:836][598]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.09-17.20.14:836][598]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.09-17.20.14:836][598]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.09-17.20.14:836][598]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.09-17.20.14:837][598]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.09-17.20.14:837][598]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.09-17.20.14:837][598]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.09-17.20.14:839][598]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.09-17.20.14:877][598]LogAudioMixer: Display: Using Audio Hardware Device Динамики (2- USB Audio Device)
+[2023.11.09-17.20.14:877][598]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.09-17.20.14:877][598]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.09-17.20.14:877][598]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.09-17.20.14:879][598]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2023.11.09-17.20.14:879][598]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2023.11.09-17.20.14:881][598]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2023.11.09-17.20.14:881][598]LogInit: FAudioDevice initialized with ID 25.
+[2023.11.09-17.20.14:881][598]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2023.11.09-17.20.14:881][598]LogAudio: Display: Audio Device (ID: 25) registered with world 'FirstPersonMap'.
+[2023.11.09-17.20.14:881][598]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2023.11.09-17.20.14:918][598]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-17.20.14:918][598]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.09-17.20.14:921][598]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.11.09-20.20.14
+[2023.11.09-17.20.14:922][598]LogWorld: Bringing up level for play took: 0.002956
+[2023.11.09-17.20.14:924][598]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.20.14:935][598]PIE: Server logged in
+[2023.11.09-17.20.14:937][598]PIE: Play in editor total start time 0,559 seconds.
+[2023.11.09-17.20.15:058][598]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.11.09-17.20.15:869][623]LogBlueprintUserMessages: [BP_Weapon_Component] StaticMeshComponent0
+[2023.11.09-17.20.16:826][676]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_Decrease', from offset 328
+[2023.11.09-17.20.16:826][676]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Characters/BP_StaminaObserver.BP_StaminaObserver_C:DecreaseStamina
+	Function /Game/Characters/BP_StaminaObserver.BP_StaminaObserver_C:ExecuteUbergraph_BP_StaminaObserver
+
+[2023.11.09-17.20.26:423][676]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/Characters/BP_StaminaObserver.BP_StaminaObserver without an associated node. The blueprint breakpoint has been removed
+[2023.11.09-17.20.26:424][676]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/Characters/BP_StaminaObserver.BP_StaminaObserver without an associated node. The blueprint breakpoint has been removed
+[2023.11.09-17.20.30:434][676]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-17.20.30:434][676]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.11.09-17.20.30:434][676]LogSlate: Window 'ProjectKurs Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2023.11.09-17.20.30:445][676]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.09-17.20.30:446][676]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-17.20.30:446][676]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2023.11.09-17.20.30:449][676]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.09-17.20.30:455][676]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-17.20.30:479][676]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2023.11.09-17.20.30:479][676]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2023.11.09-17.20.30:481][676]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2023.11.09-17.20.30:490][676]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.11.09-17.20.30:566][677]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2023.11.09-17.20.33:641][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.11.09-17.20.33:644][  0]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.024
+[2023.11.09-17.20.33:645][  0]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Player/BP_Player] ([2] browsable assets)...
+[2023.11.09-17.20.33:715][  0]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Characters/Player/BP_Player.BP_Player]
+[2023.11.09-17.20.33:715][  0]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Player/BP_Player]
+[2023.11.09-17.20.33:715][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Player/BP_Player" FILE="../../../../../Projects/ProjectKurs/Saved/Autosaves/Game/Characters/Player/BP_Player_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2023.11.09-17.20.33:758][  0]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Player/BP_Player_Auto6
+[2023.11.09-17.20.33:758][  0]LogSavePackage: Moving '../../../../../Projects/ProjectKurs/Saved/BP_Player_Auto6578DBFD24E54DEBFF388BCB8A7552E7B.tmp' to '../../../../../Projects/ProjectKurs/Saved/Autosaves/Game/Characters/Player/BP_Player_Auto6.uasset'
+[2023.11.09-17.20.33:759][  0]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/BP_StaminaObserver] ([2] browsable assets)...
+[2023.11.09-17.20.33:759][  0]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/BP_StaminaObserver]
+[2023.11.09-17.20.33:759][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_StaminaObserver" FILE="../../../../../Projects/ProjectKurs/Saved/Autosaves/Game/Characters/BP_StaminaObserver_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2023.11.09-17.20.33:767][  0]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/BP_StaminaObserver_Auto6
+[2023.11.09-17.20.33:767][  0]LogSavePackage: Moving '../../../../../Projects/ProjectKurs/Saved/BP_StaminaObserver_Auto6E42713CC43BEC008C204F9901C645FF9.tmp' to '../../../../../Projects/ProjectKurs/Saved/Autosaves/Game/Characters/BP_StaminaObserver_Auto6.uasset'
+[2023.11.09-17.20.33:768][  0]LogFileHelpers: Auto-saving content packages took 0.123
+[2023.11.09-17.20.36:701][337]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.09-17.20.36:709][337]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.11.09-17.20.36:709][337]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2023.11.09-17.20.36:711][337]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2 ms (total: 65 ms)
+[2023.11.09-17.20.36:711][337]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.11.09-17.20.36:713][337]LogPlayLevel: [PlayLevel] Compiling BP_StaminaObserver before play...
+[2023.11.09-17.20.36:737][337]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.20.36:738][337]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.20.36:774][337]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.20.36:775][337]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.20.36:775][337]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.20.36:783][337]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.20.36:783][337]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.20.36:784][337]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.20.36:925][337]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.09-17.20.36:986][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_StaminaObserver" FILE="../../../../../Projects/ProjectKurs/Content/Characters/BP_StaminaObserver.uasset" SILENT=true
+[2023.11.09-17.20.36:996][337]LogSavePackage: Moving output files for package: /Game/Characters/BP_StaminaObserver
+[2023.11.09-17.20.36:997][337]LogSavePackage: Moving '../../../../../Projects/ProjectKurs/Saved/BP_StaminaObserver05D21ADE4D5B1479C36C0CB4DAB702EB.tmp' to '../../../../../Projects/ProjectKurs/Content/Characters/BP_StaminaObserver.uasset'
+[2023.11.09-17.20.37:009][337]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 7.62 sec)
+[2023.11.09-17.20.37:032][337]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.11.09-17.20.37:035][337]LogPlayLevel: PlayLevel: Blueprint regeneration took 323 ms (1 blueprints)
+[2023.11.09-17.20.37:035][337]PIE: New page: PIE session: FirstPersonMap (9 нояб. 2023 г., 23:20:37)
+[2023.11.09-17.20.37:035][337]LogPlayLevel: Display: Creating online subsystem for client :Context_57
+[2023.11.09-17.20.37:037][337]LogOnline: OSS: Created online subsystem instance for: :Context_57
+[2023.11.09-17.20.37:114][338]AssetCheck: New page: Asset Save: BP_StaminaObserver
+[2023.11.09-17.20.37:114][338]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Characters/BP_StaminaObserver.BP_StaminaObserver
+[2023.11.09-17.20.37:143][338]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.11.09-17.20.37:149][338]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006432s)
+[2023.11.09-17.20.37:149][338]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.006478s)
+[2023.11.09-17.20.37:167][338]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.11.09-17.20.37:170][338]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-17.20.37:170][338]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-17.20.37:171][338]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.11.09-17.20.37:172][338]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.11.09-17.20.37:172][338]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.09-17.20.37:172][338]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.11.09-17.20.37:172][338]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.11.09-17.20.37:173][338]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2023.11.09-17.20.37:173][338]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 126 ms)
+[2023.11.09-17.20.37:174][338]LogPlayLevel: PIE: World Init took: (0.003192s)
+[2023.11.09-17.20.37:174][338]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2023.11.09-17.20.37:174][338]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.09-17.20.37:174][338]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.09-17.20.37:174][338]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.09-17.20.37:174][338]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.09-17.20.37:174][338]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.09-17.20.37:174][338]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.09-17.20.37:174][338]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.09-17.20.37:174][338]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.09-17.20.37:175][338]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.09-17.20.37:175][338]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.09-17.20.37:175][338]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.09-17.20.37:177][338]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.09-17.20.37:213][338]LogAudioMixer: Display: Using Audio Hardware Device Динамики (2- USB Audio Device)
+[2023.11.09-17.20.37:213][338]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.09-17.20.37:213][338]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.09-17.20.37:213][338]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.09-17.20.37:214][338]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2023.11.09-17.20.37:214][338]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2023.11.09-17.20.37:216][338]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2023.11.09-17.20.37:216][338]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2023.11.09-17.20.37:217][338]LogInit: FAudioDevice initialized with ID 26.
+[2023.11.09-17.20.37:217][338]LogAudio: Display: Audio Device (ID: 26) registered with world 'FirstPersonMap'.
+[2023.11.09-17.20.37:217][338]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2023.11.09-17.20.37:268][338]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-17.20.37:269][338]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.09-17.20.37:272][338]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.11.09-20.20.37
+[2023.11.09-17.20.37:272][338]LogWorld: Bringing up level for play took: 0.002892
+[2023.11.09-17.20.37:274][338]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.20.37:284][338]PIE: Server logged in
+[2023.11.09-17.20.37:286][338]PIE: Play in editor total start time 0,577 seconds.
+[2023.11.09-17.20.37:407][338]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.11.09-17.20.55:054][264]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-17.20.55:054][264]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.11.09-17.20.55:056][264]LogSlate: Window 'ProjectKurs Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2023.11.09-17.20.55:064][264]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.09-17.20.55:065][264]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-17.20.55:065][264]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2023.11.09-17.20.55:068][264]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.09-17.20.55:076][264]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-17.20.55:099][264]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2023.11.09-17.20.55:099][264]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2023.11.09-17.20.55:101][264]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2023.11.09-17.20.55:110][264]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.11.09-17.20.55:182][265]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2023.11.09-17.23.24:802][662]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.09-17.23.24:811][662]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.11.09-17.23.24:811][662]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2023.11.09-17.23.24:813][662]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2 ms (total: 67 ms)
+[2023.11.09-17.23.24:813][662]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.11.09-17.23.24:815][662]LogPlayLevel: [PlayLevel] Compiling BP_StaminaObserver before play...
+[2023.11.09-17.23.24:840][662]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.23.24:841][662]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.23.24:882][662]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.23.24:883][662]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.23.24:883][662]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.23.24:891][662]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.23.24:892][662]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.23.24:893][662]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.23.25:040][662]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.09-17.23.25:099][662]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_StaminaObserver" FILE="../../../../../Projects/ProjectKurs/Content/Characters/BP_StaminaObserver.uasset" SILENT=true
+[2023.11.09-17.23.25:110][662]LogSavePackage: Moving output files for package: /Game/Characters/BP_StaminaObserver
+[2023.11.09-17.23.25:110][662]LogSavePackage: Moving '../../../../../Projects/ProjectKurs/Saved/BP_StaminaObserverA434315048262AC5177F73B7B20527F3.tmp' to '../../../../../Projects/ProjectKurs/Content/Characters/BP_StaminaObserver.uasset'
+[2023.11.09-17.23.25:123][662]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 7.71 sec)
+[2023.11.09-17.23.25:148][662]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.11.09-17.23.25:151][662]LogPlayLevel: PlayLevel: Blueprint regeneration took 338 ms (1 blueprints)
+[2023.11.09-17.23.25:151][662]PIE: New page: PIE session: FirstPersonMap (9 нояб. 2023 г., 23:23:25)
+[2023.11.09-17.23.25:151][662]LogPlayLevel: Display: Creating online subsystem for client :Context_58
+[2023.11.09-17.23.25:154][662]LogOnline: OSS: Created online subsystem instance for: :Context_58
+[2023.11.09-17.23.25:231][663]AssetCheck: New page: Asset Save: BP_StaminaObserver
+[2023.11.09-17.23.25:231][663]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Characters/BP_StaminaObserver.BP_StaminaObserver
+[2023.11.09-17.23.25:261][663]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.11.09-17.23.25:268][663]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006241s)
+[2023.11.09-17.23.25:268][663]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.006289s)
+[2023.11.09-17.23.25:285][663]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.11.09-17.23.25:288][663]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-17.23.25:288][663]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-17.23.25:289][663]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.11.09-17.23.25:289][663]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.11.09-17.23.25:289][663]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.09-17.23.25:289][663]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.11.09-17.23.25:289][663]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.11.09-17.23.25:291][663]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2023.11.09-17.23.25:291][663]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 127 ms)
+[2023.11.09-17.23.25:291][663]LogPlayLevel: PIE: World Init took: (0.002986s)
+[2023.11.09-17.23.25:291][663]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2023.11.09-17.23.25:291][663]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.09-17.23.25:291][663]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.09-17.23.25:291][663]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.09-17.23.25:291][663]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.09-17.23.25:291][663]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.09-17.23.25:291][663]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.09-17.23.25:291][663]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.09-17.23.25:291][663]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.09-17.23.25:292][663]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.09-17.23.25:292][663]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.09-17.23.25:292][663]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.09-17.23.25:294][663]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.09-17.23.25:332][663]LogAudioMixer: Display: Using Audio Hardware Device Динамики (2- USB Audio Device)
+[2023.11.09-17.23.25:333][663]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.09-17.23.25:333][663]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.09-17.23.25:333][663]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.09-17.23.25:334][663]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2023.11.09-17.23.25:334][663]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2023.11.09-17.23.25:336][663]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2023.11.09-17.23.25:336][663]LogInit: FAudioDevice initialized with ID 27.
+[2023.11.09-17.23.25:336][663]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2023.11.09-17.23.25:336][663]LogAudio: Display: Audio Device (ID: 27) registered with world 'FirstPersonMap'.
+[2023.11.09-17.23.25:336][663]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 27
+[2023.11.09-17.23.25:401][663]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-17.23.25:401][663]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.09-17.23.25:404][663]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.11.09-20.23.25
+[2023.11.09-17.23.25:404][663]LogWorld: Bringing up level for play took: 0.003091
+[2023.11.09-17.23.25:406][663]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.23.25:417][663]PIE: Server logged in
+[2023.11.09-17.23.25:419][663]PIE: Play in editor total start time 0,608 seconds.
+[2023.11.09-17.23.25:553][663]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.11.09-17.23.26:168][678]LogBlueprintUserMessages: [BP_Weapon_Component] StaticMeshComponent0
+[2023.11.09-17.23.34:535][122]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-17.23.34:535][122]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.11.09-17.23.34:536][122]LogSlate: Window 'ProjectKurs Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2023.11.09-17.23.34:541][122]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.09-17.23.34:543][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-17.23.34:543][122]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2023.11.09-17.23.34:546][122]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.09-17.23.34:553][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-17.23.34:576][122]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 27
+[2023.11.09-17.23.34:576][122]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2023.11.09-17.23.34:578][122]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2023.11.09-17.23.34:588][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.11.09-17.23.34:661][123]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2023.11.09-17.24.23:010][617]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.09-17.24.23:018][617]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.11.09-17.24.23:018][617]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2023.11.09-17.24.23:021][617]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2 ms (total: 70 ms)
+[2023.11.09-17.24.23:021][617]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.11.09-17.24.23:024][617]LogPlayLevel: [PlayLevel] Compiling FirstPerson_AnimBP before play...
+[2023.11.09-17.24.23:026][617]LogPlayLevel: [PlayLevel]   Compiling BP_Player as a dependent...
+[2023.11.09-17.24.23:087][617]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.24.23:088][617]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.24.23:109][617]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.24.23:110][617]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.24.23:110][617]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.24.23:158][617]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.24.23:158][617]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.24.23:159][617]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.24.23:318][617]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.09-17.24.23:485][617]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Player/BP_Player" FILE="../../../../../Projects/ProjectKurs/Content/Characters/Player/BP_Player.uasset" SILENT=true
+[2023.11.09-17.24.23:530][617]LogSavePackage: Moving output files for package: /Game/Characters/Player/BP_Player
+[2023.11.09-17.24.23:530][617]LogSavePackage: Moving '../../../../../Projects/ProjectKurs/Saved/BP_Player707A235F44A093305421D1947A632463.tmp' to '../../../../../Projects/ProjectKurs/Content/Characters/Player/BP_Player.uasset'
+[2023.11.09-17.24.23:543][617]LogFileHelpers: InternalPromptForCheckoutAndSave took 224 ms (total: 7.93 sec)
+[2023.11.09-17.24.23:569][617]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2023.11.09-17.24.23:573][617]LogPlayLevel: PlayLevel: Blueprint regeneration took 552 ms (2 blueprints)
+[2023.11.09-17.24.23:573][617]PIE: New page: PIE session: FirstPersonMap (9 нояб. 2023 г., 23:24:23)
+[2023.11.09-17.24.23:573][617]LogPlayLevel: Display: Creating online subsystem for client :Context_59
+[2023.11.09-17.24.23:576][617]LogOnline: OSS: Created online subsystem instance for: :Context_59
+[2023.11.09-17.24.23:642][618]AssetCheck: New page: Asset Save: BP_Player
+[2023.11.09-17.24.23:642][618]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Characters/Player/BP_Player.BP_Player
+[2023.11.09-17.24.23:679][618]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.11.09-17.24.23:685][618]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006463s)
+[2023.11.09-17.24.23:685][618]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.006512s)
+[2023.11.09-17.24.23:703][618]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.11.09-17.24.23:706][618]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-17.24.23:706][618]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-17.24.23:707][618]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.11.09-17.24.23:707][618]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.11.09-17.24.23:708][618]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.09-17.24.23:708][618]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.11.09-17.24.23:708][618]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.11.09-17.24.23:709][618]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2023.11.09-17.24.23:709][618]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 129 ms)
+[2023.11.09-17.24.23:709][618]LogPlayLevel: PIE: World Init took: (0.002909s)
+[2023.11.09-17.24.23:709][618]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2023.11.09-17.24.23:709][618]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.09-17.24.23:709][618]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.09-17.24.23:709][618]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.09-17.24.23:709][618]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.09-17.24.23:709][618]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.09-17.24.23:709][618]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.09-17.24.23:709][618]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.09-17.24.23:709][618]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.09-17.24.23:710][618]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.09-17.24.23:710][618]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.09-17.24.23:710][618]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.09-17.24.23:712][618]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.09-17.24.23:750][618]LogAudioMixer: Display: Using Audio Hardware Device Динамики (2- USB Audio Device)
+[2023.11.09-17.24.23:751][618]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.09-17.24.23:751][618]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.09-17.24.23:751][618]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.09-17.24.23:751][618]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2023.11.09-17.24.23:751][618]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2023.11.09-17.24.23:754][618]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2023.11.09-17.24.23:754][618]LogInit: FAudioDevice initialized with ID 28.
+[2023.11.09-17.24.23:754][618]LogAudio: Display: Audio Device (ID: 28) registered with world 'FirstPersonMap'.
+[2023.11.09-17.24.23:754][618]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2023.11.09-17.24.23:754][618]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 28
+[2023.11.09-17.24.23:817][618]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-17.24.23:817][618]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.09-17.24.23:821][618]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.11.09-20.24.23
+[2023.11.09-17.24.23:821][618]LogWorld: Bringing up level for play took: 0.003586
+[2023.11.09-17.24.23:823][618]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.24.23:833][618]PIE: Server logged in
+[2023.11.09-17.24.23:835][618]PIE: Play in editor total start time 0,817 seconds.
+[2023.11.09-17.24.23:950][618]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.11.09-17.24.24:702][640]LogBlueprintUserMessages: [BP_Weapon_Component] StaticMeshComponent0
+[2023.11.09-17.24.32:115][ 33]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-17.24.32:115][ 33]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.11.09-17.24.32:116][ 33]LogSlate: Window 'ProjectKurs Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2023.11.09-17.24.32:123][ 33]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.09-17.24.32:124][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-17.24.32:124][ 33]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2023.11.09-17.24.32:127][ 33]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.09-17.24.32:133][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-17.24.32:157][ 33]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 28
+[2023.11.09-17.24.32:157][ 33]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2023.11.09-17.24.32:159][ 33]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2023.11.09-17.24.32:168][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.11.09-17.24.32:243][ 34]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2023.11.09-17.25.00:874][246]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.09-17.25.00:881][246]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.11.09-17.25.00:881][246]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2023.11.09-17.25.00:883][246]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2 ms (total: 72 ms)
+[2023.11.09-17.25.00:884][246]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.11.09-17.25.00:887][246]LogPlayLevel: [PlayLevel] Compiling FirstPerson_AnimBP before play...
+[2023.11.09-17.25.00:889][246]LogPlayLevel: [PlayLevel]   Compiling BP_Player as a dependent...
+[2023.11.09-17.25.00:950][246]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.25.00:951][246]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.25.00:973][246]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.25.00:973][246]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.25.00:974][246]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.25.01:001][246]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.25.01:003][246]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.25.01:005][246]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.25.01:156][246]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.09-17.25.01:301][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Player/BP_Player" FILE="../../../../../Projects/ProjectKurs/Content/Characters/Player/BP_Player.uasset" SILENT=true
+[2023.11.09-17.25.01:342][246]LogSavePackage: Moving output files for package: /Game/Characters/Player/BP_Player
+[2023.11.09-17.25.01:342][246]LogSavePackage: Moving '../../../../../Projects/ProjectKurs/Saved/BP_Player044A18734102CFFF35D1D186E77B070E.tmp' to '../../../../../Projects/ProjectKurs/Content/Characters/Player/BP_Player.uasset'
+[2023.11.09-17.25.01:355][246]LogFileHelpers: InternalPromptForCheckoutAndSave took 199 ms (total: 8.13 sec)
+[2023.11.09-17.25.01:357][246]LogPlayLevel: [PlayLevel] Compiling BP_StaminaObserver before play...
+[2023.11.09-17.25.01:381][246]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.25.01:382][246]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.25.01:426][246]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.25.01:427][246]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.25.01:428][246]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.25.01:436][246]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.25.01:436][246]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.25.01:437][246]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.25.01:585][246]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.09-17.25.01:647][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_StaminaObserver" FILE="../../../../../Projects/ProjectKurs/Content/Characters/BP_StaminaObserver.uasset" SILENT=true
+[2023.11.09-17.25.01:658][246]LogSavePackage: Moving output files for package: /Game/Characters/BP_StaminaObserver
+[2023.11.09-17.25.01:658][246]LogSavePackage: Moving '../../../../../Projects/ProjectKurs/Saved/BP_StaminaObserver1D96B3EB4A4DAC7217FFD4A4CB8C927D.tmp' to '../../../../../Projects/ProjectKurs/Content/Characters/BP_StaminaObserver.uasset'
+[2023.11.09-17.25.01:671][246]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 8.22 sec)
+[2023.11.09-17.25.01:698][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.11.09-17.25.01:701][246]LogPlayLevel: PlayLevel: Blueprint regeneration took 816 ms (3 blueprints)
+[2023.11.09-17.25.01:701][246]PIE: New page: PIE session: FirstPersonMap (9 нояб. 2023 г., 23:25:01)
+[2023.11.09-17.25.01:701][246]LogPlayLevel: Display: Creating online subsystem for client :Context_60
+[2023.11.09-17.25.01:704][246]LogOnline: OSS: Created online subsystem instance for: :Context_60
+[2023.11.09-17.25.01:784][247]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.09-17.25.01:784][247]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Characters/Player/BP_Player.BP_Player
+[2023.11.09-17.25.01:784][247]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Characters/BP_StaminaObserver.BP_StaminaObserver
+[2023.11.09-17.25.01:831][247]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.11.09-17.25.01:838][247]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006558s)
+[2023.11.09-17.25.01:838][247]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.006609s)
+[2023.11.09-17.25.01:856][247]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.11.09-17.25.01:859][247]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-17.25.01:859][247]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-17.25.01:860][247]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.11.09-17.25.01:860][247]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.11.09-17.25.01:860][247]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.09-17.25.01:860][247]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.11.09-17.25.01:860][247]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.11.09-17.25.01:862][247]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2023.11.09-17.25.01:862][247]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 131 ms)
+[2023.11.09-17.25.01:862][247]LogPlayLevel: PIE: World Init took: (0.002879s)
+[2023.11.09-17.25.01:862][247]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2023.11.09-17.25.01:862][247]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.09-17.25.01:862][247]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.09-17.25.01:862][247]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.09-17.25.01:862][247]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.09-17.25.01:862][247]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.09-17.25.01:862][247]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.09-17.25.01:862][247]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.09-17.25.01:862][247]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.09-17.25.01:863][247]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.09-17.25.01:863][247]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.09-17.25.01:863][247]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.09-17.25.01:865][247]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.09-17.25.01:903][247]LogAudioMixer: Display: Using Audio Hardware Device Динамики (2- USB Audio Device)
+[2023.11.09-17.25.01:903][247]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.09-17.25.01:903][247]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.09-17.25.01:903][247]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.09-17.25.01:904][247]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2023.11.09-17.25.01:904][247]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2023.11.09-17.25.01:906][247]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2023.11.09-17.25.01:906][247]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2023.11.09-17.25.01:906][247]LogInit: FAudioDevice initialized with ID 29.
+[2023.11.09-17.25.01:906][247]LogAudio: Display: Audio Device (ID: 29) registered with world 'FirstPersonMap'.
+[2023.11.09-17.25.01:906][247]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 29
+[2023.11.09-17.25.01:966][247]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-17.25.01:966][247]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.09-17.25.01:969][247]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.11.09-20.25.01
+[2023.11.09-17.25.01:969][247]LogWorld: Bringing up level for play took: 0.002968
+[2023.11.09-17.25.01:971][247]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Player_C_0.FirstPersonMesh'
+[2023.11.09-17.25.01:982][247]PIE: Server logged in
+[2023.11.09-17.25.01:984][247]PIE: Play in editor total start time 1,102 seconds.
+[2023.11.09-17.25.02:106][247]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.11.09-17.25.02:761][264]LogBlueprintUserMessages: [BP_Weapon_Component] StaticMeshComponent0
+[2023.11.09-17.25.43:248][389]LogBlueprintUserMessages: [BP_Weapon_Component] StaticMeshComponent0
+[2023.11.09-17.25.43:360][395]LogBlueprintUserMessages: [BP_Weapon_Component] StaticMeshComponent0
+[2023.11.09-17.25.43:472][401]LogBlueprintUserMessages: [BP_Weapon_Component] StaticMeshComponent0
+[2023.11.09-17.25.44:896][479]LogBlueprintUserMessages: [BP_Weapon_Component] StaticMeshComponent0
+[2023.11.09-17.25.45:003][485]LogBlueprintUserMessages: [BP_Weapon_Component] StaticMeshComponent0
+[2023.11.09-17.25.48:854][688]LogBlueprintUserMessages: [BP_Player_C_0] 100.0
+[2023.11.09-17.25.51:097][807]LogBlueprintUserMessages: [BP_Player_C_0] 100.0
+[2023.11.09-17.25.53:658][946]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2023.11.09-17.25.53:658][946]Cmd: quit
+[2023.11.09-17.25.53:659][946]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-17.25.53:659][946]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.11.09-17.25.53:661][946]LogSlate: Window 'ProjectKurs Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2023.11.09-17.25.53:680][946]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.09-17.25.53:681][946]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-17.25.53:681][946]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2023.11.09-17.25.53:684][946]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.09-17.25.53:691][946]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-17.25.53:714][946]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 29
+[2023.11.09-17.25.53:714][946]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2023.11.09-17.25.53:716][946]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2023.11.09-17.25.53:725][946]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.11.09-17.25.53:808][947]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2023.11.09-17.26.17:572][182]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
